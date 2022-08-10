@@ -7,4 +7,4 @@ print('{} - {} = {}'.format(number_1, number_2, number_1-number_2))
 
 print('{} * {} = {}'.format(number_1, number_2, number_1*number_2))
 
-print('{} / {} = {}'.format(number_1, number_2, number_1+number_2))
+print('{} / {} = {}'.format(number_1, number_2, number_1/number_2))
